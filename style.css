@@ -52,6 +52,7 @@
 
 .container button:hover{
     box-shadow: none;
+    cursor: pointer;
 }
 
 .container .text{
