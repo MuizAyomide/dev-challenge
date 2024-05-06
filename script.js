@@ -7,7 +7,7 @@ button.addEventListener('click', function(event) {
   // const email = emailInput.value.trim();
   // const password = passwordInput.value.trim();
   // const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-  // const minLength = 8;
+  // const minLength = 9;
 
   // if (emailPattern.test(email) && password.length >= minLength) {
   //   alert('Form submitted successfully!');
